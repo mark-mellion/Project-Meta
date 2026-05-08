@@ -1,0 +1,139 @@
+# PROJECT INVENTORY
+Last Updated: 2026-05-09
+
+---
+
+## ACTIVE — IMMEDIATE PRIORITY
+
+### Graded Writing Protocol (GWP)
+- **Status:** In development
+- **Type:** Academic/institutional framework
+- **Documentation:** Partial (framework exists, formal writeup needed)
+- **Next Step:** Write counselor-presentable document for academic direction
+- **Notes:** Lowest risk, shortest timeline, minimal outside dependency. Highest probability of near-term success. Other conversations converging on this as immediate priority.
+
+---
+
+## ACTIVE — DEVELOPING
+
+### Brine Valorization and Reconditioning Service
+- **Status:** Concept document complete; strategic framing maturing
+- **Type:** Infrastructure business concept
+- **Documentation:** Full concept document exists; strategic updates (Smackover, Salton Sea geothermal, two-sided market framing) undocumented as of 2026-05-09
+- **Next Step:** Document strategic updates from week of 2026-05-05
+- **Notes:** Multi-regional service model. Three identified market contexts: California RO brine (solar thermal), Smackover produced water (CHP → MSR), Salton Sea geothermal re-injection conditioning. Infrastructure layer positioning — not a mineral producer. Two-sided market: disposal problem upstream, conditioned feedstock downstream. Funding gap is significant (seed ~$500K, project requires 8-9 figures). Long timeline. Build credentials and proximity in parallel.
+
+### Cognitive Reallocation Research Project
+- **Status:** Active — daily logging underway
+- **Type:** Personal observational research / potential academic paper
+- **Documentation:** Git repository active (~2 weeks), daily logs, retrospective initial observations document
+- **Next Step:** Collaborator conversation (psych MA, research-oriented)
+- **Notes:** Already a success at personal level. Upside increases with added rigor and collaboration. Documentation in good shape relative to other projects.
+
+---
+
+## ACTIVE — PATIENT
+
+### Policy Sandbox (Yibberan)
+- **Status:** Active development
+- **Type:** Policy analysis tool / narrative world
+- **Documentation:** 40-50 pages across Species Bible, World Codex, Language Reference, Magic System Reference, Occupations Register
+- **Next Step:** Continued development on own schedule
+- **Notes:** Dual purpose — policy modeling and narrative fiction. 400-year historical arc. Published fiction is a realistic long-term output. No urgency.
+
+### Novel (Unnamed)
+- **Status:** Early development
+- **Type:** Fiction
+- **Documentation:** Character descriptions, AI-generated character images, area description, 3-generation world history
+- **Next Step:** Develop on own schedule
+- **Notes:** Unrelated to Policy Sandbox. Concept has been developing for years.
+
+---
+
+## DOCUMENTED — PARK FOR NOW
+
+### Epistemic Agent Cognition Model
+- **Status:** Proof of concept
+- **Type:** Code / AI research
+- **Documentation:** C# code exists
+- **Next Step:** Future research consideration
+- **Notes:** Rudimentary, upgradable. Intended for agentic AI systems.
+
+### Agricultural Drone Swarm
+- **Status:** Concept developed
+- **Type:** Research and business concept
+- **Documentation:** AI conversations (undocumented in durable form)
+- **Next Step:** Document when bandwidth allows
+- **Notes:** Probably has legs. Current tech likely allows it. Identifiable market holes — underserved high-danger agriculturally-viable terrain (eastern Ohio noted). Self-capitalizable pilot may be feasible. FAR 107 compliance pathway considered. Cannot pursue simultaneously with brine valorization. High fun factor.
+
+### Qualitative-to-Quantitative Measurement via Git/AI
+- **Status:** Concept
+- **Type:** Business concept
+- **Documentation:** None
+- **Next Step:** Park until brine valorization direction clarifies
+- **Notes:** More within current skill set than brine valorization. More achievable. Missing physical systems architecture component. Cannot pursue simultaneously with brine valorization.
+
+### Measurement of False Positives in Diagnosis Attributable to Institutional Incentive Structure
+- **Status:** Concept
+- **Type:** Academic paper (psych/economics crossover)
+- **Documentation:** None
+- **Next Step:** Low priority, revisit when bandwidth allows
+- **Notes:** Legitimate academic paper material. Interesting but not urgent.
+
+### Inter-Ideological Dialogue Sandbox
+- **Status:** Concept developed
+- **Type:** Communication framework / tool
+- **Documentation:** Some docs exist (predates cognitive reallocation project in linear time)
+- **Next Step:** No immediate action needed
+- **Notes:** Designed to neutrally explain controversial policy to both major sides of ideological divide.
+
+---
+
+## DOCUMENT FOR PERSONAL RECORD — NO STRATEGIC URGENCY
+
+### Lunar Infrastructure (Shackleton Crater Port)
+- **Status:** Concept developed
+- **Type:** Speculative engineering / personal
+- **Documentation:** AI conversations only (undocumented in durable form)
+- **Next Step:** Write up when it brings satisfaction to do so — not for strategy
+- **Notes:** 6-mission staged deployment. Solar power, cable, sintering rovers, landing pad, blast walls, golden hour pod, rescue bunker. Technically coherent. Institutionally out of reach without NASA/ESA/commercial lunar operator affiliation. Worth documenting because it's good and it deserves to exist somewhere durable.
+
+### Conflict-Resilient Desalination
+- **Status:** Concept developed
+- **Type:** Engineering concept
+- **Documentation:** AI conversations only (undocumented in durable form)
+- **Next Step:** Revisit if brine valorization establishes standing in water/desal space
+- **Notes:** Modular, buried, conflict-tolerant architecture. Intellectually precedes brine valorization in development history. Potential humanitarian application if brine valorization establishes credibility first.
+
+### Personal Philosophy
+- **Status:** Substantially developed
+- **Type:** Personal
+- **Documentation:** AI conversations, substantial prior work
+- **Next Step:** Write up if/when it brings satisfaction to do so
+- **Notes:** Enough material for a full treatise. No external audience anticipated. Worth doing for personal reasons only.
+
+---
+
+## ENTERTAINMENT — NO DOCUMENTATION NEEDED
+
+### Flat $/Acre Tax Policy
+- **Status:** Explored
+- **Type:** Economic thought experiment
+- **Notes:** Fun to think about. Fewer legs than the average tree. No documentation warranted unless a journal for academic economic comedy is located.
+
+### CSP Desalination
+- **Status:** Validated externally
+- **Type:** Reference concept
+- **Notes:** Live plant operating in Australia. No documentation needed — look at what's already working. Useful as validation that the underlying thinking is sound.
+
+### Mars Von Neumann Probe System
+- **Status:** Stalled
+- **Type:** Speculative / entertainment
+- **Notes:** Insurmountable near-term problems (precision semiconductors, copper prospecting on Mars). Unrealizable within any practical timeline. Someone out there wants it though.
+
+---
+
+## NOTES
+- Inventory compiled: 2026-05-09
+- Source: Extended AI-assisted strategy conversation
+- Format: Add status updates with date inline as projects develop
